@@ -1,5 +1,5 @@
-[README (1).md](https://github.com/user-attachments/files/25418977/README.1.md)
-# 👾 omoobaAY — Offensive Security Enthusiast
+[README.md](https://github.com/user-attachments/files/25418977/README.1.md)
+# 👾 Osagie Ayomide — Offensive Security Enthusiast
 
 *"The quieter you become, the more you can hear."* — Kali Linux
 
@@ -65,8 +65,8 @@ I'm a passionate penetration tester in training, focused on offensive security a
 
 ## 📬 Connect With Me
 
-[![LinkedIn](https://www.linkedin.com/in/ayomide-osagie?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B9FvtTA2lSQS5z6na2O9vVQ%3D%3D).
-
+LinkedIn.
+(https://www.linkedin.com/in/ayomide-osagie)
 
 
 
